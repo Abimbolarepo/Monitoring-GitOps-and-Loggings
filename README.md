@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/95041171/215177334-1e783061-d217-4afb-a8c3-b13fad40b949.png)
 
-This Project would help us monitor the Kubernetes cluster using Prometheus and Grafana, deploy applications, services, and other Kubernetes objects using a GitOps tool known as Argo CD and lastly get logs from the application, services, and other Kubernetes objects running in the Kubernetes cluster.
+This Project would help us monitor the Kubernetes cluster using Prometheus and Grafana, deploy applications, services, and other Kubernetes objects using a GitOps tool known as Argo CD and lastly get logs from the application, services, and other Kubernetes objects running in the Kubernetes cluster with EFK stack.
 
 Kindly see the steps taken to implement the project.
 
